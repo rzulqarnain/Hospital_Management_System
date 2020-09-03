@@ -1,0 +1,15 @@
+85479,Hind,Ali,Female,55825897,Gynecologist,Gynecology and Obstetrics,Monday and Wednesday,8:00AM
+67890,Nouman,Khan,Male,66758967,Cardiologist,Cardiology,Tuesday and Wednesday,8:00AM
+90876,Nigat,Ajmal,Female,77684578,Dermatologist,Dermatology,Monday and Tuesday,9:00AM
+66678,Ahmed,AlMansori,Male,66268138,Orthopedic,Orthopedic,Monday and Wednesday,8:00AM
+47474,Mohammed,Rashid,Male,55276252,Neurologist,Neurology,All week,9:00AM
+58585,AbdulJabbar,Al Shaikhly,Male,77356758,ENT ,Otorhinolaryngology,All week,8:00AM
+88878,Lina,Hussien,Female,55825896,Radiologists,Radiology,All week,8:00AM
+98989,Yousef,El Yamani,Male,66268238,Pediatric,Pediatric,Tuesday and Thursday,7:00AM
+22113,Amal,AlSayji,Female,66623793,Dermatologist,Dermatology,Wednesday and Thursday,9:00AM
+77878,Ismail,Kattmi,Male,55836578,Ophthalmologist,Ophthalmology,Monday and Wednesday,10:00AM
+90213,Fahmi,Omar,Female,77685983,Medicine,General Medicine,All week,7:00AM
+25452,Abdel Ghadir,Nasr,Male,66653533,General Physician,Health Science,Tuesday and Thursday,10:00AM
+98760,Samir,Mohammad,Male,55825252,Cardiologist,Cardiology,Monday and Thursday,7:00AM
+65789,Eman,Ali,Female,77878878,Dermatologist,Dermatology ,Wednesday and Thursday,9:00AM
+87787,AbdulHafiz,Ahmed,Male,66262626,Orthopedic,Orthopedic,All week,9:00AM

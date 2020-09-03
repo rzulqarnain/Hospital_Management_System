@@ -1,0 +1,15 @@
+MedicineID=312, MedicineName=Dimethicone, MedicineType=Topical Medicine, SupplierID=1252, Stock=22, Price=150, ManufactureDate=3/3/2012, ExpiryDate=3/3/2016
+MedicineID=318, MedicineName=Mometasone furoate, MedicineType=Topical Medicine, SupplierID=1260, Stock=23, Price=420, ManufactureDate=3/3/2012, ExpiryDate=3/3/2017
+MedicineID=321, MedicineName=Aqueous cream, MedicineType=Topical Medicine, SupplierID=1200, Stock=10, Price=250, ManufactureDate=2/2/2012, ExpiryDate=2/2/2016
+MedicineID=329, MedicineName=Trimethoprim, MedicineType=Tablets, SupplierID=1287, Stock=50, Price=50, ManufactureDate=13/09/2015, ExpiryDate=13/09/2019
+MedicineID=345, MedicineName=Chlorhexidine gluconate, MedicineType=Topical Medicine / Liquid, SupplierID=1278, Stock=12, Price=275, ManufactureDate=30/01/2014, ExpiryDate=30/01/2018
+MedicineID=357, MedicineName=Paracetamol, MedicineType=Tablets, SupplierID=1233, Stock=20, Price=100, ManufactureDate=26/05/2013, ExpiryDate=26/05/2017
+MedicineID=358, MedicineName=Insulin aspart, MedicineType=Injection, SupplierID=1288, Stock=32, Price=190, ManufactureDate=9/12/2013, ExpiryDate=9/12/2015
+MedicineID=365, MedicineName=Carboplatin, MedicineType=Injection, SupplierID=1285, Stock=5, Price=300, ManufactureDate=20/08/2010, ExpiryDate=20/08/2017
+MedicineID=369, MedicineName=Betaxolol, MedicineType=Drops, SupplierID=1255, Stock=22, Price=75, ManufactureDate=14/06/2012, ExpiryDate=14/06/2016
+MedicineID=371, MedicineName=Iodixanol, MedicineType=Injection, SupplierID=1213, Stock=12, Price=350, ManufactureDate=10/3/2012, ExpiryDate=10/3/2016
+MedicineID=375, MedicineName=Oxycodone hydrochloride, MedicineType=Injection, SupplierID=1289, Stock=13, Price=65, ManufactureDate=9/9/2015, ExpiryDate=9/9/2019
+MedicineID=378, MedicineName=Paraffin, MedicineType=Topical Medicine / Liquid, SupplierID=1274, Stock=80, Price=320, ManufactureDate=29/03/2015, ExpiryDate=29/03/2019
+MedicineID=389, MedicineName=Chloramphenicol, MedicineType=Drops, SupplierID=1295, Stock=30, Price=80, ManufactureDate=20/03/2011, ExpiryDate=20/03/2016
+MedicineID=395, MedicineName=Methotrexate, MedicineType=Injection, SupplierID=1214, Stock=16, Price=200, ManufactureDate=28/08/2011, ExpiryDate=28/08/2016
+MedicineID=398, MedicineName=Ciprofloxacin, MedicineType=Tablets, SupplierID=1235, Stock=20, Price=210, ManufactureDate=15/02/2013, ExpiryDate=15/02/2017
